@@ -1,0 +1,14 @@
+#vis
+{
+    width: 500px;
+    margin-left: 100px;
+}
+#km
+{
+  float: right;
+}
+body
+{
+  background-color: bisque;
+  border: 10px double  black;
+}
